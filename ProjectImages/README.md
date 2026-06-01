@@ -1,13 +1,13 @@
-#**Project Screenshots and Descriptions**
+# **Project Screenshots and Descriptions**
 
-##**Contents**
+## **Contents**
 The images in this directory may include:
 - Project screenshots
 - Application user interface images
 - Portfolio graphics
 - Other supporting media used to showcase my work and technical projects
 
-###**Usage**
+### **Usage**
 These images are referenced by the website's HTML pages and are intended to provide
 visual examples of projects, skills, and professional experiences featured in 
 the portfolio. 
